@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/magazine.jpg)](https://mdbootstrap.com/freebies/magazine-template/)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/03/magazine.jpg)](https://mdbootstrap.com/freebies/jquery/magazine/)
 
 # Bootstrap 4 & Material Design - Magazine Template 
 
@@ -7,7 +7,7 @@ Free, responsive Magazine template containing many types of magazine newsfeeds a
 ________
 
 # Live Previews: 
-## https://mdbootstrap.com/freebies/magazine-template/
+## https://mdbootstrap.com/freebies/jquery/magazine/
 
 # Most important features:
 
